@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+.ring {
+    width: 100px;
+    height: 100px;
+    border: 10px solid green;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.ringOne {
+    top: 10px;
+    left: 0px;
+}
+
+.ringTwo {
+    top: 45px;
+    left: 75px;
+}
